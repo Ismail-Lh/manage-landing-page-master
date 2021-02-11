@@ -1,0 +1,28 @@
+{
+  "name": "manage-landing-page-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ismail-Lh/manage-landing-page-master.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ismail-Lh/manage-landing-page-master/issues"
+  },
+  "homepage": "https://github.com/Ismail-Lh/manage-landing-page-master#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.13",
+    "@babel/plugin-transform-runtime": "^7.12.15",
+    "@babel/runtime-corejs2": "^7.12.13",
+    "parcel-bundler": "^1.12.4",
+    "rimraf": "^3.0.2",
+    "sass": "^1.32.7"
+  }
+}
